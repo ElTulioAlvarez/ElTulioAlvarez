@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./resources/banner.png" alt="Banner AntimatterDev" />
+  <img src="./resources/Antimatter.png" alt="Banner AntimatterDev" />
 </p>
 
 # 👋 Hola, soy Marco Tulio Álvarez Barajas (Antimatter)
