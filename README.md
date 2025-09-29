@@ -35,8 +35,8 @@
 
 ## 📊 Estadísticas
 
-![Tulio's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=radical)
+![Tulio's GitHub stats](https://github-readme-stats.vercel.app/api?username=ElTulioAlvarez&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ElTulioAlvarez&layout=compact&theme=radical)
 
 ---
 
