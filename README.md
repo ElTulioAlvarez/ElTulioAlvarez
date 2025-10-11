@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://antimatter-mx.vercel.app/og-default.png" alt="AntimatterMX Banner" width="820"/>
+  <img src="/resources/Antimatter.png" alt="AntimatterMX Banner" width="820"/>
 </p>
 
 # AntimatterMX — Prototipo
