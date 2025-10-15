@@ -7,8 +7,8 @@
 Soy **Marco Tulio Álvarez Barajas (AntimatterDev)**. Desarrollo **software, web y apps móviles** con enfoque en calidad, performance y resultados medibles.  
 Este documento resume el estado actual de mis proyectos y el cierre de las fases principales de desarrollo.
 
-- 🌐 Sitio: **https://antimatter-mx.vercel.app**
-- ✉️ Contacto: **antimattermx@proton.me**
+- 🌐 Sitio: **https://www.antimattermx.com**
+- ✉️ Contacto: **marcotulio-amx@antimattermx.com**
 
 ---
 
